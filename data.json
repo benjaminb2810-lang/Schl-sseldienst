@@ -1,0 +1,91 @@
+{
+  "business": {
+    "name": "Ammerseer Schlüsseldienst",
+    "tagline": "Schnell. Sicher. Vor Ort.",
+    "description": "Ihr zuverlässiger Schlüsseldienst am Ammersee – für Türöffnungen, Schlossaustausch und Einbruchschutz rund um die Uhr.",
+    "phone": "+49 8152 123456",
+    "phone_display": "08152 / 12 34 56",
+    "email": "info@ammerseer-schluesseldienst.de",
+    "address": {
+      "street": "Seestraße 14",
+      "city": "Herrsching am Ammersee",
+      "zip": "82211",
+      "region": "Bayern"
+    },
+    "maps_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2660.123!2d11.1748!3d47.9993!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479deb5e6b0e0001%3A0x1!2sHerrsching+am+Ammersee!5e0!3m2!1sde!2sde!4v1700000000000!5m2!1sde!2sde",
+    "hours": [
+      { "days": "Montag – Freitag", "time": "08:00 – 20:00 Uhr" },
+      { "days": "Samstag", "time": "09:00 – 18:00 Uhr" },
+      { "days": "Notdienst", "time": "24 / 7 erreichbar" }
+    ],
+    "social": {
+      "facebook": "https://www.facebook.com",
+      "instagram": "https://www.instagram.com"
+    }
+  },
+  "services": [
+    {
+      "icon": "🔓",
+      "title": "Türöffnung",
+      "desc": "Ausgesperrt? Wir öffnen Ihre Tür schnell und in nahezu 100 % der Fälle ohne Schäden – zu jeder Tages- und Nachtzeit.",
+      "highlight": "Oft unter 30 Min. vor Ort"
+    },
+    {
+      "icon": "🔒",
+      "title": "Schloss­austausch",
+      "desc": "Schlüssel verloren oder Schloss defekt? Wir tauschen Ihren Schließzylinder professionell und direkt vor Ort aus.",
+      "highlight": "Markenzylinder & Ersatzschlüssel"
+    },
+    {
+      "icon": "🛡️",
+      "title": "Einbruch­schutz",
+      "desc": "Wir beraten Sie zu modernen Sicherheitslösungen: Sicherheitszylinder, Schutzbleche, Querriegelschlösser und mehr.",
+      "highlight": "Kostenlose Erstberatung"
+    },
+    {
+      "icon": "🚗",
+      "title": "Auto­öffnung",
+      "desc": "Schlüssel im Auto eingeschlossen? Unser Team öffnet Ihr Fahrzeug schnell und schadlos – auch nachts und am Wochenende.",
+      "highlight": "Alle Fahrzeugtypen"
+    },
+    {
+      "icon": "🗄️",
+      "title": "Tresor­öffnung",
+      "desc": "Vergessene Kombination oder defekter Tresor? Wir öffnen Safes aller Marken fachgerecht und ohne unnötige Beschädigungen.",
+      "highlight": "Diskret & professionell"
+    },
+    {
+      "icon": "🏢",
+      "title": "Schließ­anlagen",
+      "desc": "Für Firmen, Mehrfamilienhäuser und Wohnanlagen planen und montieren wir individuelle Schließsysteme nach Ihren Wünschen.",
+      "highlight": "Für Gewerbe & Privat"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Maria H.",
+      "rating": 5,
+      "date": "vor 2 Wochen",
+      "text": "Mitten in der Nacht ausgesperrt und innerhalb von 25 Minuten war der Techniker da. Sehr freundlich, professionell und fairer Preis. Absolute Empfehlung!"
+    },
+    {
+      "name": "Thomas K.",
+      "rating": 5,
+      "date": "vor 1 Monat",
+      "text": "Schloss nach Einbruchversuch ausgetauscht – tolle Beratung, schnelle Umsetzung. Fühle mich jetzt viel sicherer. Danke!"
+    },
+    {
+      "name": "Sandra M.",
+      "rating": 5,
+      "date": "vor 3 Wochen",
+      "text": "Super schnelle Hilfe am Wochenende. Kein Aufpreis wie bei anderen Diensten. Wird definitiv weiterempfohlen!"
+    },
+    {
+      "name": "Peter L.",
+      "rating": 4,
+      "date": "vor 2 Monaten",
+      "text": "Freundlicher Service, pünktlich und kompetent. Die Beratung zum Einbruchschutz war sehr hilfreich und ausführlich."
+    }
+  ],
+  "areas": ["Herrsching", "Dießen", "Utting", "Schondorf", "Breitbrunn", "Eching", "Stegen", "Weilheim", "Landsberg", "Starnberg", "Andechs", "Seefeld"]
+}
